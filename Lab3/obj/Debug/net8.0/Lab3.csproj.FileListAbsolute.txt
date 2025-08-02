@@ -1,0 +1,15 @@
+/workspaces/ProgammingLogic-/Lab3/bin/Debug/net8.0/Lab3
+/workspaces/ProgammingLogic-/Lab3/bin/Debug/net8.0/Lab3.deps.json
+/workspaces/ProgammingLogic-/Lab3/bin/Debug/net8.0/Lab3.runtimeconfig.json
+/workspaces/ProgammingLogic-/Lab3/bin/Debug/net8.0/Lab3.dll
+/workspaces/ProgammingLogic-/Lab3/bin/Debug/net8.0/Lab3.pdb
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfoInputs.cache
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.AssemblyInfo.cs
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.csproj.CoreCompileInputs.cache
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.sourcelink.json
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.dll
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/refint/Lab3.dll
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.pdb
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/Lab3.genruntimeconfig.cache
+/workspaces/ProgammingLogic-/Lab3/obj/Debug/net8.0/ref/Lab3.dll
